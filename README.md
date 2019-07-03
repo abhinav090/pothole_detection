@@ -82,7 +82,7 @@ http://www.robots.ox.ac.uk/~vgg/software/via/via-1.0.6.html
 
 | Folder Name        | Download Link           |
 | -------------------|:-----------------------:|
-| Train | [Gdrive link](https://drive.google.com/file/d/1PGhXUnaJDpcjgoLEhNn9gRvGZGRCzWUt/view?usp=sharing) |
+| Train | [Gdrive link](https://drive.google.com/file/d/1--0RB8oXNY876IushT8Z60Trl8_RNO11/view?usp=sharing) |
 | Val      | [Gdrive link](https://drive.google.com/file/d/1PGhXUnaJDpcjgoLEhNn9gRvGZGRCzWUt/view?usp=sharing)     |
 
 We have created this Dataset for final testing of the model
