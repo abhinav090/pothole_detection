@@ -1,8 +1,7 @@
 Pothole Detection via MaskRCNN
 ==============================
 
-This whole Project was primarly build for the **__TATA innoverse competition 2018
-(November) Pothole Detection Competition__**
+This whole Project was primarly build for PWD(Public Works Department) Workers
 
 
 ## Abstract
